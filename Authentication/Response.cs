@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace FLL_ScoreBoard_Online.Authentication
+namespace ThisPackage.Authentication
 {
     public class Response
     {

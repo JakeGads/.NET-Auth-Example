@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 
-namespace FLL_ScoreBoard_Online.Authentication
+namespace ThisPackage.Authentication
 {
     public class ApplicationUser : IdentityUser
     {
